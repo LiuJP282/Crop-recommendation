@@ -1,0 +1,8 @@
+SOIL,STATE,Rice,Cotton,Sugarcane,Wheat,Millets
+Aluvial,Maharashtra,1,0,0,1,0
+Black,Maharashtra,0,1,0,0,0
+Red,Maharashtra,0,0,1,0,0
+Laterite,Maharashtra,0,0,0,0,1
+Mountain,Maharashtra,0,0,0,0,0
+Desert,Maharashtra,0,0,0,0,0
+Aluvial,Gujrat,1,1,1,1,1
